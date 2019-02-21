@@ -1,0 +1,26 @@
+p {
+  text-align: left;
+  font-family: sans-serif;
+}
+
+a {
+  color:blue;
+}
+
+ul {
+  font-family:sans-serif;
+}
+
+body {
+  background-color: rgb(78, 93, 69);
+}
+
+body {
+  color: rgb(255, 255, 255);
+}
+
+img {
+  border: 2px solid black;
+  margin: auto;
+  padding: 20px;
+}
